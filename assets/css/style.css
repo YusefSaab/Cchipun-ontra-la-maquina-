@@ -1,0 +1,10 @@
+h1 {
+    padding: 5rem 0;
+    margin-top: 5rem;
+}
+.boton {
+    width: 30vw;
+    height: 10vh;
+    background-color: blue;
+    color: bisque;
+}
